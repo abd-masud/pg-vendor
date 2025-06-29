@@ -14,7 +14,7 @@ const HomePage = () => {
         </div>
 
         <Link href="/auth/login" className="button first">
-          <button>Login</button>
+          <button>Vendor Login</button>
           <span className="button-effect"></span>
         </Link>
 
